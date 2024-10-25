@@ -2,7 +2,7 @@
 ![Screenshot](https://raw.githubusercontent.com/ThePoorPilot/HannahMontana-ALE/main/Screenshot.png)
 
 Some 13 years ago, the world was graced with a glorious new operating system called Hannah Montana Linux
-Powered by Kubuntu 9.04 and pixie dust, it was the most elegant, sleek, and ergonomic distrobution introduced to the universe!
+Powered by Kubuntu 9.04 and pixie dust, it was the most elegant, sleek, and ergonomic distribution introduced to the universe!
 
 Sadly, just as Hannah Montana Linux graced the universe with it's glory, it was taken away. For 13 years, Linux users have lived in agony without Hannah Montana Linux, 13 years too long!
 
